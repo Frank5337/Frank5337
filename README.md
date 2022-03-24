@@ -2,6 +2,11 @@
 
 - 🔭 currently working on DATA SECURITY
 - 🌱 now learning Java, Go
+- 💬 [ask me](https://github.com/DrAugus/DrAugus/issues)
+
+<!--
+- 🔗 [website](https://augusmeow.cn/) about [genshin](https://augusmeow.cn/list/genshin), blog, and more.
+-->
 
 
 <!--
