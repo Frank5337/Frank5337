@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 ![zbl5337's GitHub stats](https://github-readme-stats.vercel.app/api?username=zbl5337&show_icons=true)
 
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbl5337&langs_count=8&layout=compact)](https://github.com/zbl5337)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
