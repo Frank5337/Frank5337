@@ -1,7 +1,7 @@
 ### Hi there, I'm Frank 👋
 
 - 🔭 currently working on DATA SECURITY
-- 🌱 now learning Java, Go
+- 🌱 now learning Java, Rust
 - 💬 [ask me](hhttps://github.com/Frank5337/Frank5337/issues)
 
 <!--
